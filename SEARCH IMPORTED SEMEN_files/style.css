@@ -63,7 +63,7 @@ template {
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
 }
 
 a:active,
@@ -1372,6 +1372,10 @@ textarea {
 a {
     color: #fff;
     text-decoration: none
+}
+
+table a{
+	color: #3b86ff !important;
 }
 
 a:focus,
@@ -2758,7 +2762,7 @@ caption {
 .table {
     width: 100%;
     max-width: 100%;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .table>tbody>tr>td,
@@ -2770,7 +2774,9 @@ caption {
     padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
-    border-top: 1px solid #1c1e22
+    border-top: 1px solid #1c1e22;
+	
+	
 }
 
 .table>thead>tr>th {
@@ -4610,13 +4616,15 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .nav>li>a {
-    padding: 10px 15px
+    padding: 10px 15px;
+	color: #3b86ff;
 }
 
 .nav>li>a:focus,
 .nav>li>a:hover {
     text-decoration: none;
-    background-color: #3e444c
+    background-color: #3e444c;
+	color: #ffffff;
 }
 
 .nav>li.disabled>a {
