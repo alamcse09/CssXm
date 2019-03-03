@@ -10034,7 +10034,8 @@ body[ng-controller] .modal {
 }
 
 .portlet.box {
-    padding: 0!important
+    padding: 0!important;
+	background-color: #ffffff;
 }
 
 .portlet.box>.portlet-title {
