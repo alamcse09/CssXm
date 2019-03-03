@@ -4807,6 +4807,11 @@ textarea.input-group-sm>.input-group-btn>.btn {
     border: 1px solid transparent
 }
 
+.page-header .navbar{
+	
+	margin-bottom: 0px !important;
+}
+
 .navbar-collapse {
     overflow-x: visible;
     padding-right: 15px;
