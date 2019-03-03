@@ -51,7 +51,7 @@
 .page-header.navbar .page-logo {
 	float: left;
 	display: block;
-	width: 290px;
+	width: 289px;
 	height: 75px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -1521,7 +1521,7 @@
 @media ( min-width :992px) {
 	.page-content-wrapper {
 		float: left;
-		width: 100%
+		width: 100%;
 	}
 	.page-content-wrapper .page-content {
 		margin-left: 275px;
