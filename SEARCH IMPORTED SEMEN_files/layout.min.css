@@ -1132,7 +1132,7 @@
 		float: left;
 		position: relative;
 		margin-right: -100%
-	}.page-sidebar-menu li:hover{
+	}.page-sidebar-menu li:not(.open):hover{
 		
 		background-color: #00ace2;
 	}
