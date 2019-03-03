@@ -5418,8 +5418,8 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
     padding: 8px 12px;
     line-height: 1.42857143;
     text-decoration: none;
-    color: #fff;
-    background-color: #3a3f44;
+    color: #90909c;
+    background-color: #f2f2f2;
     border: 1px solid rgba(0, 0, 0, .6);
     margin-left: -1px
 }
@@ -5442,7 +5442,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination>li>span:focus,
 .pagination>li>span:hover {
     z-index: 2;
-    color: #fff;
+    color: #3b86ff;
     background-color: transparent;
     border-color: rgba(0, 0, 0, .6)
 }
